@@ -1,0 +1,1 @@
+A repo for learning how to use SQL from SQLite
